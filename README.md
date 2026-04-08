@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://ItzMeet2.github.io/meet-portfolio/">
-    <img src="https://img.shields.io/badge/Check_Out_My_Live_Portfolio-0f172a?style=for-the-badge&logo=codeigniter&logoColor=3B82F6&labelColor=1e293b" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-0f172a?style=for-the-badge&logo=codeigniter&logoColor=3B82F6&labelColor=1e293b" alt="Portfolio" />
   </a>
 </div>
 
