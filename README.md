@@ -52,23 +52,4 @@ I am a Full Stack Developer and a passionate student who loves building dynamic,
   <a href="https://code.visualstudio.com"><img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 </p>
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzMeet2&theme=radical&show_icons=true&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeet2&layout=compact&theme=radical&hide_border=true&bg_color=0f172a" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeet2&theme=radical&hide_border=true&background=0f172a" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
