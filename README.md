@@ -19,7 +19,7 @@
   [![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/itz_meet_024) &nbsp;&nbsp;
   [![telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/Itz_Meet_2) &nbsp;&nbsp;
   [![whatsapp](https://img.icons8.com/fluency/48/whatsapp.png)](https://wa.me/919316929377) &nbsp;&nbsp;
-  [![gmail](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:meethansotiya@gmail.com)
+  [![gmail](https://img.icons8.com/fluency/48/gmail-new.png)](https://mail.google.com/mail/?view=cm&fs=1&to=meethansotiya@gmail.com)
 
 </div>
 
