@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Meet%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" />
+  <a href="https://github.com/ItzMeet2">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Meet%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Header Banner" />
+  </a>
 </div>
 
 <br>
